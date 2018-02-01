@@ -1,0 +1,30 @@
+﻿{
+	"version": 1517522782,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"sprite-sheet0.png",
+		"osn-sheet0.png",
+		"tree_-sheet0.png",
+		"plat_-sheet0.png",
+		"sprite2-sheet0.png",
+		"planet-sheet0.png",
+		"player1-sheet0.png",
+		"shadow-sheet0.png",
+		"sprite3-sheet0.png",
+		"sprite4-sheet0.png",
+		"sprite5-sheet0.png",
+		"fire_-sheet0.png",
+		"star-sheet0.png",
+		"particles.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"pathfind.js"
+	]
+}
